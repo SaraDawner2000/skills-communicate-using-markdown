@@ -5,3 +5,6 @@ def palindrome_checker(word)
   word == word.reverse
 end
 ```
+- [ ] Make a task list
+- [ ] Preview it
+- [ ] Commit the changes
